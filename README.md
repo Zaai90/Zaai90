@@ -6,12 +6,13 @@
 * 👂 My name is Erik Grune
 * :open_book: I’m currently studying System Developement in .NET
 * ❤️ I love C#, SOLID and System Architecture
- 
  </div>
 
-<div align="center"> 
+
 
 ## My stacks
+<div align="center"> 
+
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -25,10 +26,10 @@
  </div>
 
 <br/>
-
-<div align="center"> 
  
  ## Github Stats
+ 
+ <div align="center"> 
  <a href="https://github.com/Zaai90">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaai90&layout=compact&count_private=true&theme=github_dark&hide_border=true" /></a>
 <a href="https://github.com/Zaai90">
@@ -37,9 +38,11 @@
   </div> 
 <br/>  
 
-<div align="center"> 
+
  
 ## Connect with me
+
+<div align="left"> 
 <a href="https://linkedin.com/in/erikgrune" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 10px;" />
 </a>  

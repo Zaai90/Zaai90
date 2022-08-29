@@ -1,22 +1,28 @@
-### Hi there 👋
+<div align="center"> 
+
+# Hello World 👋
+</div>
 
 * 👂 My name is Erik Grune
 * :open_book: I’m currently studying System Developement in .NET
 * ❤️ I love C#, SOLID and System Achitecture
 
-# My Skill Set
+## My stacks
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+<br/>
 
 ## Github Stats  
-<div align="center"> 
+<div align="left"> 
  <a href="https://github.com/Zaai90">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaai90&layout=compact&count_private=true&theme=github_dark&hide_border=true" /></a>
 <a href="https://github.com/Zaai90">
@@ -25,6 +31,13 @@
   </div> 
 <br/>  
 
-<!--
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg
--->
+## Connect with me
+<div align="left"> 
+<a href="https://linkedin.com/in/erikgrune" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 10px;" />
+</a>  
+<a href="https://discord.com/users/436229418260758538">
+<img src=	https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white alt=linkedin style="margin-bottom: 10px;" />
+</a>
+</div>
+ 

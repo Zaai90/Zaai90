@@ -1,11 +1,15 @@
-<div align="center"> 
+<div align="left"> 
 
 # Hello World 👋
-</div>
+
 
 * 👂 My name is Erik Grune
 * :open_book: I’m currently studying System Developement in .NET
-* ❤️ I love C#, SOLID and System Achitecture
+* ❤️ I love C#, SOLID and System Architecture
+ 
+ </div>
+
+<div align="center"> 
 
 ## My stacks
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -18,11 +22,13 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+ </div>
 
 <br/>
 
-## Github Stats  
 <div align="center"> 
+ 
+ ## Github Stats
  <a href="https://github.com/Zaai90">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaai90&layout=compact&count_private=true&theme=github_dark&hide_border=true" /></a>
 <a href="https://github.com/Zaai90">
@@ -31,8 +37,9 @@
   </div> 
 <br/>  
 
+<div align="center"> 
+ 
 ## Connect with me
-<div align="left"> 
 <a href="https://linkedin.com/in/erikgrune" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 10px;" />
 </a>  

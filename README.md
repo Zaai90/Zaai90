@@ -22,7 +22,7 @@
 <br/>
 
 ## Github Stats  
-<div align="left"> 
+<div align="center"> 
  <a href="https://github.com/Zaai90">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaai90&layout=compact&count_private=true&theme=github_dark&hide_border=true" /></a>
 <a href="https://github.com/Zaai90">

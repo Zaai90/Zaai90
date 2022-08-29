@@ -21,9 +21,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaai90&layout=compact&count_private=true&theme=github_dark&hide_border=true" /></a>
 <a href="https://github.com/Zaai90">
   <img src="https://github-readme-stats.vercel.app/api?username=Zaai90&show_icons=true&hide_border=true&count_private=true&theme=github_dark&include_all_commits=true" /></a>
-  <a href="https://wakatime.com/@Zaai90">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=Zaai90&layout=compact&theme=github_dark&hide_border=true" />
-</a>
  <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Zaai90&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D"/></p>
   </div> 
 <br/>  

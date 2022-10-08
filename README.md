@@ -1,3 +1,5 @@
+![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Zaai90&color=55acb7&style=for-the-badge&logo=Github)
+
 <div align="left"> 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=4000&pause=2000&color=31A116&vCenter=true&width=255&lines=Hello+world!)](https://git.io/typing-svg)

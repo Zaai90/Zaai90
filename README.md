@@ -1,7 +1,6 @@
 <div align="left"> 
 
-# Hello World 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=4000&pause=2000&color=31A116&vCenter=true&width=255&lines=Hello+world!)](https://git.io/typing-svg)
 
 * 👂 My name is Erik Grune
 * :open_book: I’m currently studying System Developement in .NET

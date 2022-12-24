@@ -1,4 +1,4 @@
-![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Zaai90&color=55acb7&style=for-the-badge&logo=Github)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Zaai90.Zaai90)
 
 <div align="left"> 
 

@@ -1,4 +1,4 @@
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Zaai90.Zaai90)
+![](https://komarev.com/ghpvc/?username=Zaai90&color=03ba3b&style=plastic)
 
 <div align="left"> 
 

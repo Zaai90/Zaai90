@@ -5,7 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=4000&pause=2000&color=31A116&vCenter=true&width=255&lines=Hello+world!)](https://git.io/typing-svg)
 
 * 👂 My name is Erik Grune
-* :open_book: I’m currently studying System Developement
+* 🏢 I'm working as a consultant as a fullstack developer
+* :book: Currently deep diving into Docker and K8s
 * ❤️ I love C#, SOLID and System Architecture
  </div>
 

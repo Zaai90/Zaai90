@@ -6,7 +6,7 @@
 
 * 👂 My name is Erik Grune
 * 🏢 I'm working as a consultant as a fullstack developer
-* :book: Currently deep diving into Docker and K8s
+* :book: Currently deep diving into Azure
 * ❤️ I love C#, SOLID and System Architecture
  </div>
 

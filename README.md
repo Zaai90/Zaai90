@@ -4,10 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=4000&pause=2000&color=31A116&vCenter=true&width=255&lines=Hello+world!)](https://git.io/typing-svg)
 
-* 👂 My name is Erik Grune
-* 🏢 I'm working as a consultant as a fullstack developer
+* 👂 My name is Erik
+* 🏢 I'm a fullstack developer as a IT-consultant.
 * :book: Currently deep diving into Azure
-* ❤️ I love C#, SOLID and System Architecture
+* ❤️ I love C#, React, SOLID and System architecture
  </div>
 
 
@@ -44,6 +44,7 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+[![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)

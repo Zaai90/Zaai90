@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-# 👋 Hey, I'm **Erik Grünewald**
+# 👋 Hey, I'm **Erik**
 
 ### Full-Stack Developer · Azure Explorer · Architecture Enthusiast
 

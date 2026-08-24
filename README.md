@@ -171,6 +171,6 @@ I believe good engineering is about balancing simplicity, scalability and mainta
 
 <div align="center">
 
-### *“Code is read more often than it’s written — write it with future readers in mind.”*
+### *“Code has two audiences: the machine that runs it and the people who have to live with it.”*
 
 </div>
